@@ -1,0 +1,9 @@
+/bin
+/obj
+/Debug
+/Release
+*/bin
+*/obj
+*.userprefs
+*.user
+*.ncb
